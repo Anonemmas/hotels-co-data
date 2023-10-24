@@ -1,392 +1,1003 @@
-{ 
-  "hotels" : [
-  {
-    "createdAt": "2023-03-10T14:35:01.438Z",
-    "roomname": "roomname 1",
-    "rating": 29,
-    "photos": "67807",
-    "price": "113.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 100,
-    "bathrooms": 16,
-    "description": "description 1",
-    "thingsToKnow": [],
-    "id": "1"
-  },
-  {
-    "createdAt": "2023-06-18T18:40:54.311Z",
-    "roomname": "roomname 2",
-    "rating": 32,
-    "photos": "11388",
-    "price": "721.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 71,
-    "bathrooms": 84,
-    "description": "description 2",
-    "thingsToKnow": [],
-    "id": "2"
-  },
-  {
-    "createdAt": "2022-12-18T08:05:13.384Z",
-    "roomname": "roomname 3",
-    "rating": 60,
-    "photos": "0139",
-    "price": "995.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 30,
-    "bathrooms": 51,
-    "description": "description 3",
-    "thingsToKnow": [],
-    "id": "3"
-  },
-  {
-    "createdAt": "2023-09-14T15:09:42.658Z",
-    "roomname": "roomname 4",
-    "rating": 69,
-    "photos": "34268",
-    "price": "285.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 61,
-    "bathrooms": 47,
-    "description": "description 4",
-    "thingsToKnow": [],
-    "id": "4"
-  },
-  {
-    "createdAt": "2023-01-30T18:04:57.191Z",
-    "roomname": "roomname 5",
-    "rating": 80,
-    "photos": "824",
-    "price": "302.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 36,
-    "bathrooms": 16,
-    "description": "description 5",
-    "thingsToKnow": [],
-    "id": "5"
-  },
-  {
-    "createdAt": "2023-08-15T17:49:18.212Z",
-    "roomname": "roomname 6",
-    "rating": 6,
-    "photos": "46682",
-    "price": "214.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 30,
-    "bathrooms": 60,
-    "description": "description 6",
-    "thingsToKnow": [],
-    "id": "6"
-  },
-  {
-    "createdAt": "2023-01-05T22:55:23.966Z",
-    "roomname": "roomname 7",
-    "rating": 35,
-    "photos": "081",
-    "price": "341.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 94,
-    "bathrooms": 38,
-    "description": "description 7",
-    "thingsToKnow": [],
-    "id": "7"
-  },
-  {
-    "createdAt": "2023-01-26T23:28:57.342Z",
-    "roomname": "roomname 8",
-    "rating": 88,
-    "photos": "899",
-    "price": "714.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 30,
-    "bathrooms": 87,
-    "description": "description 8",
-    "thingsToKnow": [],
-    "id": "8"
-  },
-  {
-    "createdAt": "2023-05-06T18:23:31.784Z",
-    "roomname": "roomname 9",
-    "rating": 23,
-    "photos": "5149",
-    "price": "542.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 37,
-    "bathrooms": 63,
-    "description": "description 9",
-    "thingsToKnow": [],
-    "id": "9"
-  },
-  {
-    "createdAt": "2023-04-29T07:54:33.944Z",
-    "roomname": "roomname 10",
-    "rating": 72,
-    "photos": "81184",
-    "price": "218.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 91,
-    "bathrooms": 13,
-    "description": "description 10",
-    "thingsToKnow": [],
-    "id": "10"
-  },
-  {
-    "createdAt": "2023-02-13T08:42:41.390Z",
-    "roomname": "roomname 11",
-    "rating": 54,
-    "photos": "756",
-    "price": "335.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 21,
-    "bathrooms": 35,
-    "description": "description 11",
-    "thingsToKnow": [],
-    "id": "11"
-  },
-  {
-    "createdAt": "2023-02-07T11:39:58.952Z",
-    "roomname": "roomname 12",
-    "rating": 5,
-    "photos": "563",
-    "price": "728.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 53,
-    "bathrooms": 23,
-    "description": "description 12",
-    "thingsToKnow": [],
-    "id": "12"
-  },
-  {
-    "createdAt": "2023-03-05T08:57:18.992Z",
-    "roomname": "roomname 13",
-    "rating": 42,
-    "photos": "261",
-    "price": "594.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 35,
-    "bathrooms": 14,
-    "description": "description 13",
-    "thingsToKnow": [],
-    "id": "13"
-  },
-  {
-    "createdAt": "2023-07-03T01:03:13.060Z",
-    "roomname": "roomname 14",
-    "rating": 96,
-    "photos": "81987",
-    "price": "159.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 80,
-    "bathrooms": 48,
-    "description": "description 14",
-    "thingsToKnow": [],
-    "id": "14"
-  },
-  {
-    "createdAt": "2023-09-16T11:35:57.570Z",
-    "roomname": "roomname 15",
-    "rating": 81,
-    "photos": "9792",
-    "price": "723.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 52,
-    "bathrooms": 6,
-    "description": "description 15",
-    "thingsToKnow": [],
-    "id": "15"
-  },
-  {
-    "createdAt": "2023-02-19T07:15:37.613Z",
-    "roomname": "roomname 16",
-    "rating": 63,
-    "photos": "1960",
-    "price": "821.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 28,
-    "bathrooms": 71,
-    "description": "description 16",
-    "thingsToKnow": [],
-    "id": "16"
-  },
-  {
-    "createdAt": "2022-10-29T22:34:34.970Z",
-    "roomname": "roomname 17",
-    "rating": 8,
-    "photos": "20344",
-    "price": "512.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 46,
-    "bathrooms": 23,
-    "description": "description 17",
-    "thingsToKnow": [],
-    "id": "17"
-  },
-  {
-    "createdAt": "2023-07-15T08:16:17.917Z",
-    "roomname": "roomname 18",
-    "rating": 39,
-    "photos": "74059",
-    "price": "780.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 14,
-    "bathrooms": 2,
-    "description": "description 18",
-    "thingsToKnow": [],
-    "id": "18"
-  },
-  {
-    "createdAt": "2023-06-29T17:55:16.270Z",
-    "roomname": "roomname 19",
-    "rating": 57,
-    "photos": "466",
-    "price": "455.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 25,
-    "bathrooms": 84,
-    "description": "description 19",
-    "thingsToKnow": [],
-    "id": "19"
-  },
-  {
-    "createdAt": "2023-10-18T16:49:26.731Z",
-    "roomname": "roomname 20",
-    "rating": 56,
-    "photos": "7618",
-    "price": "887.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 93,
-    "bathrooms": 92,
-    "description": "description 20",
-    "thingsToKnow": [],
-    "id": "20"
-  },
-  {
-    "createdAt": "2023-09-15T10:34:53.287Z",
-    "roomname": "roomname 21",
-    "rating": 5,
-    "photos": "5662",
-    "price": "355.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 79,
-    "bathrooms": 83,
-    "description": "description 21",
-    "thingsToKnow": [],
-    "id": "21"
-  },
-  {
-    "createdAt": "2023-08-17T17:32:10.379Z",
-    "roomname": "roomname 22",
-    "rating": 68,
-    "photos": "8974",
-    "price": "225.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 13,
-    "bathrooms": 66,
-    "description": "description 22",
-    "thingsToKnow": [],
-    "id": "22"
-  },
-  {
-    "createdAt": "2023-06-12T14:46:01.977Z",
-    "roomname": "roomname 23",
-    "rating": 49,
-    "photos": "536",
-    "price": "972.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 67,
-    "bathrooms": 52,
-    "description": "description 23",
-    "thingsToKnow": [],
-    "id": "23"
-  },
-  {
-    "createdAt": "2023-07-14T08:33:44.408Z",
-    "roomname": "roomname 24",
-    "rating": 92,
-    "photos": "758",
-    "price": "831.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 17,
-    "bathrooms": 26,
-    "description": "description 24",
-    "thingsToKnow": [],
-    "id": "24"
-  },
-  {
-    "createdAt": "2023-08-20T09:32:08.504Z",
-    "roomname": "roomname 25",
-    "rating": 59,
-    "photos": "081",
-    "price": "400.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 69,
-    "bathrooms": 10,
-    "description": "description 25",
-    "thingsToKnow": [],
-    "id": "25"
-  },
-  {
-    "createdAt": "2023-10-22T10:35:47.526Z",
-    "roomname": "roomname 26",
-    "rating": 88,
-    "photos": "18169",
-    "price": "855.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 7,
-    "bathrooms": 59,
-    "description": "description 26",
-    "thingsToKnow": [],
-    "id": "26"
-  },
-  {
-    "createdAt": "2022-10-29T15:44:46.918Z",
-    "roomname": "roomname 27",
-    "rating": 57,
-    "photos": "0225",
-    "price": "347.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 37,
-    "bathrooms": 97,
-    "description": "description 27",
-    "thingsToKnow": [],
-    "id": "27"
-  },
-  {
-    "createdAt": "2023-01-08T06:55:35.386Z",
-    "roomname": "roomname 28",
-    "rating": 16,
-    "photos": "255",
-    "price": "837.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 64,
-    "bathrooms": 52,
-    "description": "description 28",
-    "thingsToKnow": [],
-    "id": "28"
-  },
-  {
-    "createdAt": "2023-06-21T20:22:45.182Z",
-    "roomname": "roomname 29",
-    "rating": 38,
-    "photos": "953",
-    "price": "359.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 10,
-    "bathrooms": 34,
-    "description": "description 29",
-    "thingsToKnow": [],
-    "id": "29"
-  },
-  {
-    "createdAt": "2022-11-15T05:16:34.041Z",
-    "roomname": "roomname 30",
-    "rating": 64,
-    "photos": "15698",
-    "price": "602.00",
-    "reviewCount": "https://loremflickr.com/640/480",
-    "beds": 56,
-    "bathrooms": 95,
-    "description": "description 30",
-    "thingsToKnow": [],
-    "id": "30"
-  }]}
+{
+  "rooms": [
+    {
+      "createdAt": "2023-03-10T14:35:01.438Z",
+      "roomname": "Villa",
+      "rating": 5,
+      "photos": [
+        "https://example.com/villa-image1.jpg",
+        "https://example.com/villa-image2.jpg",
+        "https://example.com/villa-image1.jpg",
+        "https://example.com/villa-image2.jpg",
+        "https://example.com/villa-image2.jpg",
+        "https://example.com/villa-image2.jpg"
+      ],
+      "price": "2000.00",
+      "reviewCount": 30,
+      "beds": 5,
+      "bathrooms": 3,
+      "description": "This spacious villa offers luxurious comfort and breathtaking views.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "3 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Security camera/recording device"]
+        },
+        {
+          "cancellation": [
+            "This reservation is non-refundable",
+            "Review the hotel's cancellation policy which applies even if you cancel for illness or disruptions"
+          ]
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "createdAt": "2023-03-11T10:15:00.123Z",
+      "roomname": "Oceanfront Suite",
+      "rating": 4.5,
+      "photos": [
+        "https://example.com/oceanfront-suite-image1.jpg",
+        "https://example.com/oceanfront-suite-image2.jpg"
+      ],
+      "price": "1500.00",
+      "reviewCount": 25,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Enjoy stunning ocean views and direct beach access in this spacious suite.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "createdAt": "2023-03-12T09:45:00.765Z",
+      "roomname": "Mountain View Cabin",
+      "rating": 4.7,
+      "photos": [
+        "https://example.com/mountain-cabin-image1.jpg",
+        "https://example.com/mountain-cabin-image2.jpg"
+      ],
+      "price": "1800.00",
+      "reviewCount": 35,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Escape to the serene mountains in this cozy cabin with scenic views.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 12:00 PM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Carbon monoxide detector", "First aid kit"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "createdAt": "2023-03-13T15:20:00.890Z",
+      "roomname": "Luxury Penthouse",
+      "rating": 4.8,
+      "photos": [
+        "https://example.com/penthouse-image1.jpg",
+        "https://example.com/penthouse-image2.jpg"
+      ],
+      "price": "2500.00",
+      "reviewCount": 40,
+      "beds": 4,
+      "bathrooms": 3,
+      "description": "Experience opulent living in this luxurious penthouse with city skyline views.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 10:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "4"
+    },
+
+    {
+      "createdAt": "2023-03-14T11:10:00.932Z",
+      "roomname": "Beachfront Bungalow",
+      "rating": 4.6,
+      "photos": [
+        "https://example.com/bungalow-image1.jpg",
+        "https://example.com/bungalow-image2.jpg"
+      ],
+      "price": "1700.00",
+      "reviewCount": 30,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Relax on the beach in this charming bungalow with direct beach access.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "5"
+    },
+    {
+      "createdAt": "2023-03-15T14:55:00.714Z",
+      "roomname": "Ski Chalet",
+      "rating": 4.9,
+      "photos": [
+        "https://example.com/ski-chalet-image1.jpg",
+        "https://example.com/ski-chalet-image2.jpg"
+      ],
+      "price": "2200.00",
+      "reviewCount": 45,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Hit the slopes and come back to a cozy chalet with mountain views.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Carbon monoxide detector", "First aid kit"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "6"
+    },
+
+    {
+      "createdAt": "2023-03-16T09:30:00.621Z",
+      "roomname": "Rustic Cottage",
+      "rating": 4.5,
+      "photos": [
+        "https://example.com/rustic-cottage-image1.jpg",
+        "https://example.com/rustic-cottage-image2.jpg"
+      ],
+      "price": "1600.00",
+      "reviewCount": 28,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Experience the charm of a rustic cottage in the countryside.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 12:00 PM",
+            "3 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Fire extinguisher", "Emergency exit"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "7"
+    },
+    {
+      "createdAt": "2023-03-17T10:45:00.834Z",
+      "roomname": "Historic Mansion",
+      "rating": 4.8,
+      "photos": [
+        "https://example.com/mansion-image1.jpg",
+        "https://example.com/mansion-image2.jpg"
+      ],
+      "price": "2800.00",
+      "reviewCount": 50,
+      "beds": 6,
+      "bathrooms": 4,
+      "description": "Step back in time in this beautifully preserved historic mansion.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "8 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "8"
+    },
+    {
+      "createdAt": "2023-03-18T13:20:00.983Z",
+      "roomname": "Seaside Condo",
+      "rating": 4.6,
+      "photos": [
+        "https://example.com/seaside-condo-image1.jpg",
+        "https://example.com/seaside-condo-image2.jpg"
+      ],
+      "price": "1900.00",
+      "reviewCount": 32,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Enjoy beachfront living in this modern seaside condo with ocean views.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "9"
+    },
+    {
+      "createdAt": "2023-03-19T14:10:00.720Z",
+      "roomname": "Urban Loft",
+      "rating": 4.7,
+      "photos": [
+        "https://example.com/urban-loft-image1.jpg",
+        "https://example.com/urban-loft-image2.jpg"
+      ],
+      "price": "2200.00",
+      "reviewCount": 40,
+      "beds": 4,
+      "bathrooms": 2,
+      "description": "Experience city living in style in this chic urban loft with city skyline views.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "10"
+    },
+    {
+      "createdAt": "2023-03-20T10:00:00.551Z",
+      "roomname": "Riverside Cabin",
+      "rating": 4.6,
+      "photos": [
+        "https://example.com/riverside-cabin-image1.jpg",
+        "https://example.com/riverside-cabin-image2.jpg"
+      ],
+      "price": "1600.00",
+      "reviewCount": 30,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Embrace nature in this charming riverside cabin with fishing and hiking opportunities.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "11"
+    },
+    {
+      "createdAt": "2023-03-21T12:30:00.670Z",
+      "roomname": "Safari Tent",
+      "rating": 4.9,
+      "photos": [
+        "https://example.com/safari-tent-image1.jpg",
+        "https://example.com/safari-tent-image2.jpg"
+      ],
+      "price": "2000.00",
+      "reviewCount": 35,
+      "beds": 1,
+      "bathrooms": 1,
+      "description": "Experience the thrill of the wild in a luxurious safari tent amidst wildlife.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "safety-property": [
+            "Wildlife viewing at a safe distance",
+            "Security personnel on-site"
+          ]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "12"
+    },
+    {
+      "createdAt": "2023-03-22T11:55:00.412Z",
+      "roomname": "Treehouse Retreat",
+      "rating": 4.8,
+      "photos": [
+        "https://example.com/treehouse-retreat-image1.jpg",
+        "https://example.com/treehouse-retreat-image2.jpg"
+      ],
+      "price": "2100.00",
+      "reviewCount": 38,
+      "beds": 1,
+      "bathrooms": 1,
+      "description": "Stay among the treetops in this enchanting treehouse retreat with stunning forest views.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Fire extinguisher", "Emergency exit"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "13"
+    },
+    {
+      "createdAt": "2023-03-23T14:20:00.593Z",
+      "roomname": "Historic Townhouse",
+      "rating": 4.7,
+      "photos": [
+        "https://example.com/townhouse-image1.jpg",
+        "https://example.com/townhouse-image2.jpg"
+      ],
+      "price": "2600.00",
+      "reviewCount": 45,
+      "beds": 5,
+      "bathrooms": 3,
+      "description": "Experience the elegance of a historic townhouse in the heart of the city.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "14"
+    },
+    {
+      "createdAt": "2023-03-24T09:40:00.751Z",
+      "roomname": "Lakefront Cabin",
+      "rating": 4.6,
+      "photos": [
+        "https://example.com/lakefront-cabin-image1.jpg",
+        "https://example.com/lakefront-cabin-image2.jpg"
+      ],
+      "price": "1750.00",
+      "reviewCount": 32,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Enjoy peaceful lakefront living in this cozy cabin with beautiful sunset views.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "3 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "15"
+    },
+    {
+      "createdAt": "2023-03-25T10:50:00.891Z",
+      "roomname": "Ski Resort Chalet",
+      "rating": 4.9,
+      "photos": [
+        "https://example.com/ski-chalet-image1.jpg",
+        "https://example.com/ski-chalet-image2.jpg"
+      ],
+      "price": "2300.00",
+      "reviewCount": 42,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Experience a winter wonderland in this ski resort chalet with easy access to the slopes.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Carbon monoxide detector", "First aid kit"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "16"
+    },
+    {
+      "createdAt": "2023-03-26T12:30:00.624Z",
+      "roomname": "Desert Oasis Villa",
+      "rating": 4.7,
+      "photos": [
+        "https://example.com/desert-oasis-villa-image1.jpg",
+        "https://example.com/desert-oasis-villa-image2.jpg"
+      ],
+      "price": "1900.00",
+      "reviewCount": 36,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Escape to a luxurious oasis in the desert with a private pool and stunning sunset views.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "17"
+    },
+    {
+      "createdAt": "2023-03-27T11:15:00.711Z",
+      "roomname": "Rural Farmhouse",
+      "rating": 4.6,
+      "photos": [
+        "https://example.com/farmhouse-image1.jpg",
+        "https://example.com/farmhouse-image2.jpg"
+      ],
+      "price": "1800.00",
+      "reviewCount": 34,
+      "beds": 4,
+      "bathrooms": 2,
+      "description": "Experience the tranquility of a rural farmhouse surrounded by nature and farmlands.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "5 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "18"
+    },
+    {
+      "createdAt": "2023-03-28T10:40:00.529Z",
+      "roomname": "Tropical Beach House",
+      "rating": 4.8,
+      "photos": [
+        "https://example.com/beach-house-image1.jpg",
+        "https://example.com/beach-house-image2.jpg"
+      ],
+      "price": "2200.00",
+      "reviewCount": 40,
+      "beds": 4,
+      "bathrooms": 3,
+      "description": "Relax in paradise at this tropical beach house with palm trees and crystal-clear waters.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 10:00 AM",
+            "8 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "19"
+    },
+    {
+      "createdAt": "2023-03-29T11:55:00.687Z",
+      "roomname": "Alpine Chalet",
+      "rating": 4.7,
+      "photos": [
+        "https://example.com/alpine-chalet-image1.jpg",
+        "https://example.com/alpine-chalet-image2.jpg"
+      ],
+      "price": "2300.00",
+      "reviewCount": 45,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Experience alpine beauty in this cozy chalet with mountain views and skiing nearby.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 4:00 PM",
+            "Checkout before 10:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Carbon monoxide detector", "First aid kit"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "20"
+    },
+    {
+      "createdAt": "2023-03-30T12:20:00.824Z",
+      "roomname": "Lakeside Cottage",
+      "rating": 4.6,
+      "photos": [
+        "https://example.com/lakeside-cottage-image1.jpg",
+        "https://example.com/lakeside-cottage-image2.jpg"
+      ],
+      "price": "1600.00",
+      "reviewCount": 32,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Escape to a serene lakeside cottage with fishing and boating opportunities.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "3 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "21"
+    },
+    {
+      "createdAt": "2023-03-31T09:45:00.932Z",
+      "roomname": "Mountain Chalet",
+      "rating": 4.9,
+      "photos": [
+        "https://example.com/mountain-chalet-image1.jpg",
+        "https://example.com/mountain-chalet-image2.jpg"
+      ],
+      "price": "2000.00",
+      "reviewCount": 36,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Discover the beauty of the mountains in this cozy chalet with hiking and skiing nearby.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Carbon monoxide detector", "First aid kit"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 14 days before check-in",
+            "50% refund for cancellations made within 14 days"
+          ]
+        }
+      ],
+      "id": "22"
+    },
+    {
+      "createdAt": "2023-04-01T10:00:00.572Z",
+      "roomname": "Island Villa",
+      "rating": 4.8,
+      "photos": [
+        "https://example.com/island-villa-image1.jpg",
+        "https://example.com/island-villa-image2.jpg"
+      ],
+      "price": "2500.00",
+      "reviewCount": 40,
+      "beds": 4,
+      "bathrooms": 3,
+      "description": "Escape to your private island villa with crystal-clear waters and white sandy beaches.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 10:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "23"
+    },
+    {
+      "createdAt": "2023-04-02T11:15:00.681Z",
+      "roomname": "Forest Cabin",
+      "rating": 4.7,
+      "photos": [
+        "https://example.com/forest-cabin-image1.jpg",
+        "https://example.com/forest-cabin-image2.jpg"
+      ],
+      "price": "1800.00",
+      "reviewCount": 34,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Reconnect with nature in this cozy forest cabin surrounded by tall trees and wildlife.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "24"
+    },
+    {
+      "createdAt": "2023-04-03T12:20:00.719Z",
+      "roomname": "Lighthouse Cottage",
+      "rating": 4.8,
+      "photos": [
+        "https://example.com/lighthouse-cottage-image1.jpg",
+        "https://example.com/lighthouse-cottage-image2.jpg"
+      ],
+      "price": "2100.00",
+      "reviewCount": 38,
+      "beds": 1,
+      "bathrooms": 1,
+      "description": "Stay in a charming lighthouse cottage with panoramic ocean views and maritime adventures.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "2 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Fire extinguisher", "Emergency exit"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "25"
+    },
+    {
+      "createdAt": "2023-04-04T10:40:00.826Z",
+      "roomname": "Lakefront Lodge",
+      "rating": 4.7,
+      "photos": [
+        "https://example.com/lakefront-lodge-image1.jpg",
+        "https://example.com/lakefront-lodge-image2.jpg"
+      ],
+      "price": "1900.00",
+      "reviewCount": 36,
+      "beds": 4,
+      "bathrooms": 2,
+      "description": "Unwind by the lake in this spacious lakefront lodge with fishing and boating opportunities.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "5 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "26"
+    },
+    {
+      "createdAt": "2023-04-05T11:05:00.974Z",
+      "roomname": "Desert Ranch House",
+      "rating": 4.7,
+      "photos": [
+        "https://example.com/desert-ranch-house-image1.jpg",
+        "https://example.com/desert-ranch-house-image2.jpg"
+      ],
+      "price": "1800.00",
+      "reviewCount": 34,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Experience the beauty of the desert in this charming ranch house with stargazing and desert wildlife.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "27"
+    },
+    {
+      "createdAt": "2023-04-06T10:20:00.621Z",
+      "roomname": "Riverside Retreat",
+      "rating": 4.6,
+      "photos": [
+        "https://example.com/riverside-retreat-image1.jpg",
+        "https://example.com/riverside-retreat-image2.jpg"
+      ],
+      "price": "1700.00",
+      "reviewCount": 32,
+      "beds": 2,
+      "bathrooms": 1,
+      "description": "Relax by the riverside in this peaceful retreat with fishing and nature walks.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 11:00 AM",
+            "3 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "28"
+    },
+    {
+      "createdAt": "2023-04-07T09:40:00.412Z",
+      "roomname": "Safari Lodge",
+      "rating": 4.8,
+      "photos": [
+        "https://example.com/safari-lodge-image1.jpg",
+        "https://example.com/safari-lodge-image2.jpg"
+      ],
+      "price": "2200.00",
+      "reviewCount": 40,
+      "beds": 4,
+      "bathrooms": 2,
+      "description": "Embark on a safari adventure in this comfortable lodge with wildlife viewing opportunities.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 3:00 PM",
+            "Checkout before 10:00 AM",
+            "6 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Security personnel on-site", "Safe box"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "No refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "29"
+    },
+    {
+      "createdAt": "2023-04-08T10:55:00.587Z",
+      "roomname": "Mountain Cabin",
+      "rating": 4.7,
+      "photos": [
+        "https://example.com/mountain-cabin-image1.jpg",
+        "https://example.com/mountain-cabin-image2.jpg"
+      ],
+      "price": "1800.00",
+      "reviewCount": 36,
+      "beds": 3,
+      "bathrooms": 2,
+      "description": "Experience the serenity of the mountains in this cozy cabin with hiking and wildlife encounters.",
+      "thingsToKnow": [
+        {
+          "houseRules": [
+            "Check-in after 2:00 PM",
+            "Checkout before 11:00 AM",
+            "4 guests maximum"
+          ]
+        },
+        {
+          "safety-property": ["Smoke detectors", "Fire extinguisher"]
+        },
+        {
+          "cancellation": [
+            "Free cancellation up to 7 days before check-in",
+            "50% refund for cancellations made within 7 days"
+          ]
+        }
+      ],
+      "id": "30"
+    }
+  ]
+}
