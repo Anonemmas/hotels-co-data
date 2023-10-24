@@ -1,4 +1,5 @@
-{ hotels : [
+{ 
+  "hotels" : [
   {
     "createdAt": "2023-03-10T14:35:01.438Z",
     "roomname": "roomname 1",
